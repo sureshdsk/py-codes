@@ -1,4 +1,4 @@
-# Tutorial: http://www.idiotinside.com/2015/03/01/use-python-lists-as-fifo-lifo-queues-using-deque-collections
+# Tutorial: http://www.idiotinside.com/2015/03/01/python-lists-as-fifo-lifo-queues-using-deque-collections
 
 stack = ["a", "b", "c"]
 
